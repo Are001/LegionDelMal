@@ -8,7 +8,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/klerithx2/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/klerithx2/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal restricción.
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
@@ -23,9 +23,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 planes/          → Operaciones aprobadas por el Consejo
 📁 miembros/        → Fichas de cada miembro activo
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
-📁 inteligencia/    → Expedientes de los héroes enemigos
-📄 misiones.yaml    → Estado global de todas las misiones
-📄 README.md      → Documentación principal del repositorio
+📁 inteligencia/    → Expedientesn principal del repositorio
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
@@ -62,7 +60,9 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📋 **En planificación:** Proyecto Krypton (clonar a Superman)
 
 ## Enemigos principales
-
+ de los héroes enemigos
+📄 misiones.yaml    → Estado global de todas las misiones
+📄 README.md      → Documentació
 La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedientes de inteligencia sobre cada uno están en la carpeta `/inteligencia`.
 
 **No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor.
